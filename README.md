@@ -2,7 +2,7 @@
 
 📫 How to reach me **bpkapkar@gmail.com**
 
-🔭 I’m currently working as Senior Data Scientist 
+🔭 I’m currently working as **Senior Data Scientist**
 
 <!--
 **bpkapkar/bpkapkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
