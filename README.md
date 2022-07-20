@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me bpkapkar@gmail.com
+📫 How to reach me **bpkapkar@gmail.com**
 
 🔭 I’m currently working as Senior Data Scientist 
 
