@@ -7,7 +7,7 @@ I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data 
 
 🔭 I’m currently working as **Senior Data Scientist**
 
-💬 Ask me about **Python, Data Science Machine Learning Deep Learining **
+💬 Ask me about **Python, Data Science Machine Learning Deep Learining**
 
 ⚡ Fun fact: I love **hiking on the mountain**
 
