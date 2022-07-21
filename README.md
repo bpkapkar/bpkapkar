@@ -7,7 +7,9 @@ I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data 
 
 🔭 I’m currently working as **Senior Data Scientist**
 
-💼 I’ve completed a Bachelor's degree in **Electronics & Telecommunication** and Post graducation in **MBA Operation **.
+💼 I’ve completed a Bachelor's degree in **Electronics & Telecommunication** 
+
+💼 I’ve completed a Post graduation in **MBA Operation**
 
 💬 Ask me about **Python, Data Science Machine Learning Deep Learining**
 
