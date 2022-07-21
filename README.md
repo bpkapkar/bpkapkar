@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpkapkar&label=Profile%20views&color=0e75b6&style=flat" alt="bpkapkar" /> </p>
 
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bpkapkar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
+  <br/>
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
