@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data lies with creating best possible insights and making them come true value for the business. I take great care in the insights, value for buiness and code quality of the things I build.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/media/15d1ad9cf89811a6d6686b38c1f2a84f.gif">
 📫 How to reach me **bpkapkar@gmail.com**
 
 🔭 I’m currently working as **Senior Data Scientist**
