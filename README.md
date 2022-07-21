@@ -4,7 +4,7 @@
 
 🔭 I’m currently working as **Senior Data Scientist**
 
-⚡ Fun fact: ** I love hiking on the mountain **
+⚡ Fun fact: **I love hiking on the mountain**
 
 <!--
 **bpkapkar/bpkapkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
