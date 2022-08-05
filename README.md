@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bpkapkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bpkapkar&theme=dark&hide_border=false&include_all_commits=True&count_private=True)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bpkapkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bpkapkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bpkapkar&theme=dark&hide_border=false&include_all_commits=false&count_private=True&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bpkapkar&icon=0&color=0)](https://visitcount.itsvg.in)
