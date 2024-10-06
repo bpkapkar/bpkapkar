@@ -11,7 +11,7 @@ I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data 
 
 💼 I’ve completed a Post graduation degree in **MBA Operation**
 
-💬 Ask me about **Python, Data Science ,Machine Learning, Deep Learining**
+💬 Ask me about **Generative AI (LLM) , Data Science ,Machine Learning, Deep Learining, Python**
 
 ⚡ Fun fact: I love **hiking on the mountain, video processing and developing some useful and cool stuff**
 
@@ -45,7 +45,7 @@ I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
