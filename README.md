@@ -5,7 +5,7 @@ I'm Bhushan Kapkar, a passionate Data Scientist from india. my passion for Data 
 📫 How to reach me **bpkapkar@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-🔭 I’m currently working as **Senior GenAI Architect** | **Lead Machine Learning**
+🔭 I’m currently working as **Senior GenAI Architect** | **Lead Machine Learning Engineer**
 
 💼 I’ve completed a Bachelor's degree in **Electronics & Telecommunication** 
 
